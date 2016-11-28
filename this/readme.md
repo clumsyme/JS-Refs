@@ -83,7 +83,7 @@
     d.walk === d
     < true
 
-    [下文将详述箭头函数的行为。](#arrayf)
+[下文将详述箭头函数的行为。](#arrayf)
 
 ### call 与 apply、bind
 
