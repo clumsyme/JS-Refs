@@ -180,5 +180,5 @@ for (let button of buttons) {
 
 // index 0 is 2
 // index 1 is 4
-// index 3 is 6
+// index 2 is 6
 ```
